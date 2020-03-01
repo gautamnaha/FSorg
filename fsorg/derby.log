@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Feb 29 17:21:34 PST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0170-93af-2442-0000072fe2a0 
+on database directory /Users/gautamnaha/codes/fsorg/fsorgdb with class loader sun.misc.Launcher$AppClassLoader@60e53b93 
+Loaded from file:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=/Users/gautamnaha/codes/fsorg
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
